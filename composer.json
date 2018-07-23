@@ -1,0 +1,22 @@
+{
+  "name": "securetz/Websms-sms-api",
+  "description": "Websms SMS API is build for Websms SMS - Bulk SMS Application For Marketing",
+  "type": "library",
+  "license": "MIT",
+  "version": "2.3.0",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "SecureTz",
+      "email": "support@websms.co.tz"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.3.0"
+  }
+}
